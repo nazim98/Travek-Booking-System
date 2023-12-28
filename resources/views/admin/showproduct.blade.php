@@ -7,6 +7,10 @@
   </head>
   <body>
 
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
       <!-- partial -->
 
       @include('admin.sidebar')
@@ -18,6 +22,20 @@
       <div style="padding-bottom: 30px;" class="container-fluid page-body-wrapper">
 
       <div class="container" style="text-align: center;">
+
+        @if(session()->has('message'))
+
+            <div class="alert alert-success">
+
+            <button style="float: right;" type="button" class="close" data-dismiss="alert">x</button>
+
+            {{session()->get('message')}}
+
+            </div>
+
+            @endif
+
+        <table style="margin-left: auto; margin-right:auto;">
 
         <tr style="background-color: grey;">
 
@@ -40,21 +58,24 @@
             <td>{{$product->quantity}}</td>
             <td>{{$product->price}}</td>
             <td>
-                <img height="200" width="200" src="/productimage/{{$product->image}}">
+                <img style="padding: 10px;" height="200px" width="200px" src="/productimage/{{$product->image}}">
+
 
             </td>
 
             <td>
-                <a class="btn btn-primary" href="">Update</a>
+                <a class="btn btn-primary" href="{{url('updateview',$product->id)}}">Update</a>
             </td>
 
             <td>
-                <a class="btn btn-danger" href="{{url('deleteproduct',$product->id)}}">Delete</a>
+                <a class="btn btn-danger" onclick="return confirm('Are you sure')" href="{{url('deleteproduct',$product->id)}}">Delete</a>
             </td>
 
         </tr>
 
         @endforeach
+
+    </table>
 
       </div>
 
