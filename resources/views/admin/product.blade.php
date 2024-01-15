@@ -75,10 +75,9 @@
 
             <div style="padding:15px;">
                 <label>Description</label>
-
-                <input style="color: black;" type="text" name="des" placeholder="Give a description"
-                required="">
+                <textarea style="color: black;" name="des" placeholder="Give a description" required=""></textarea>
             </div>
+
 
 
             <div style="padding:15px;">
