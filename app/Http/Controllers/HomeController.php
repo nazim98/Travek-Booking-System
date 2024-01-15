@@ -145,11 +145,47 @@ class HomeController extends Controller
 
     public function about()
     {
-        return view('user.about');
+        if(Auth::id())
+        {
+        $data = product::paginate(3);
+
+        $user = auth()->user();
+
+        $count = cart::where('phone', $user->phone)->count();
+
+        return view('user.about', compact('data', 'count'));
+        }
+    
+        else
+    
+        {
+    
+            $data = product::paginate(3);
+    
+            return view('user.about', compact('data'));
+        }
+       }
+
+   public function contact()
+   {
+    if(Auth::id())
+    {
+        $data = product::paginate(3);
+
+        $user = auth()->user();
+
+        $count = cart::where('phone', $user->phone)->count();
+
+        return view('user.contact', compact('data', 'count'));
     }
 
-    public function contact()
+    else
+
     {
-        return view('user.contact');
+
+        $data = product::paginate(3);
+
+        return view('user.contact', compact('data'));
     }
+   }
 }
