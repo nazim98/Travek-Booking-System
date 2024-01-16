@@ -126,4 +126,15 @@ class AdminController extends Controller
         return redirect()->back();
 
     }
+
+    public function rejectstatus($id)
+    {
+        $order=order::find($id);
+
+        $order->status='reject';
+
+        $order->save();
+
+        return redirect()->back();
+    }
 }

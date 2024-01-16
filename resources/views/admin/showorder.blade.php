@@ -29,6 +29,7 @@
                     <td style="padding: 20px;">Quantity</td>
                     <td style="padding: 20px;">Status</td>
                     <td style="padding: 20px;">Action</td>
+                    <td style="padding: 20px;">Action 2</td>
                 </tr>
 
                 @foreach($order as $orders)
@@ -42,6 +43,7 @@
                     <td style="padding: 20px;">{{$orders->quantity}}</td>
                     <td style="padding: 20px;">{{$orders->status}}</td>
                     <td style="padding: 20px;"><a class="btn btn-success" href="{{url('updatestatus',$orders->id)}}">Delivered</a></td>
+                    <td style="padding: 20px;"><a class="btn btn-danger" href="{{url('rejectstatus',$orders->id)}}">Reject</a></td>
                 </tr>
 
                 @endforeach
