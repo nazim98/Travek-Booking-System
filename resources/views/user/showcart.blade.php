@@ -137,7 +137,9 @@ https://templatemo.com/tm-546-sixteen-clothing
 
     </table>
 
-        <button class="btn btn-success">Confirm Order</button>
+        <div class="text-center"> <!-- Added text-center class to center the button -->
+            <button class="btn btn-success mx-auto">Confirm Order</button> <!-- Added mx-auto class to center the button -->
+        </div>
 
         </form>
 
