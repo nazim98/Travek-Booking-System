@@ -4,6 +4,17 @@
 
     @include('admin.css')
 
+    <style type="text/css">
+    .description-stack {
+        display: block;
+        max-width: 100px; /* Set the max-width based on your design */
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        white-space: normal;
+    }
+      </style>
+
+
   </head>
   <body>
 
@@ -54,7 +65,11 @@
         <tr text-align="center" style="background-color: black;">
 
             <td>{{$product->title}}</td>
-            <td>{{$product->description}}</td>
+            <td>
+            <div class="description-stack">
+                  {{$product->description}}
+            </div>
+            </td>
             <td>{{$product->quantity}}</td>
             <td>{{$product->price}}</td>
             <td>
