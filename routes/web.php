@@ -27,21 +27,25 @@ Route::middleware([
     })->name('dashboard');
 });
 
+//HomeController side
 route::get('/redirect', [HomeController::class, 'redirect']);
 route::get('/', [HomeController::class, 'index']);
+route::get('/search', [HomeController::class, 'search']);
+route::post('/addcart/{id}', [HomeController::class, 'addcart']);
+route::get('/showcart', [HomeController::class, 'showcart']);
+route::get('/delete/{id}', [HomeController::class, 'deletecart']);
+route::post('/order', [HomeController::class, 'confirmorder']);
+route::get('/contact', [HomeController::class, 'contact']);
+route::get('/about', [HomeController::class, 'about']);
+
+//AdminController side
 route::get('/product', [AdminController::class, 'product']);
 route::post('/uploadproduct', [AdminController::class, 'uploadproduct']);
 route::get('/showproduct', [AdminController::class, 'showproduct']);
 route::get('/deleteproduct/{id}', [AdminController::class, 'deleteproduct']);
 route::get('/updateview/{id}', [AdminController::class, 'updateview']);
 route::post('/updateproduct/{id}', [AdminController::class, 'updateproduct']);
-route::get('/search', [HomeController::class, 'search']);
-route::post('/addcart/{id}', [HomeController::class, 'addcart']);
-route::get('/showcart', [HomeController::class, 'showcart']);
-route::get('/delete/{id}', [HomeController::class, 'deletecart']);
-route::post('/order', [HomeController::class, 'confirmorder']);
 route::get('/showorder', [AdminController::class, 'showorder']);
 route::get('/updatestatus/{id}', [AdminController::class, 'updatestatus']);
 route::get('/rejectstatus/{id}', [AdminController::class, 'rejectstatus']);
-route::get('/contact', [HomeController::class, 'contact']);
-route::get('/about', [HomeController::class, 'about']);
+
