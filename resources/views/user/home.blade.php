@@ -91,7 +91,7 @@ https://templatemo.com/tm-546-sixteen-clothing
               @if (Route::has('login'))
     @auth
         <li class="nav-item">
-
+        <a class="nav-link" href="{{ url('showcart') }}"> <i class="fas fa-shopping-cart"></i>Cart[{{ $count }}]</a>
         </li>
         <x-app-layout></x-app-layout>
     @else
