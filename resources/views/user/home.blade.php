@@ -143,7 +143,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <li><a href="#">Corporis, omnis doloremque</a></li>
                 <li><a href="#">Non cum id reprehenderit</a></li>
               </ul>
-              <a href="about.html" class="filled-button">Read More</a>
+              <a href="about" class="filled-button">Read More</a>
             </div>
           </div>
           <div class="col-md-6">
