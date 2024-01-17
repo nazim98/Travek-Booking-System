@@ -45,7 +45,7 @@ https://templatemo.com/tm-546-sixteen-clothing
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="/"><h2>Sixteen <em>Clothing</em></h2></a>
+          <a class="navbar-brand" href="/"><h2>Jenjalan <em>My</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -113,13 +113,15 @@ https://templatemo.com/tm-546-sixteen-clothing
 	4. Copy only URL and paste it within the src="" field below
 -->
             <div id="map">
-              <iframe src="https://maps.google.com/maps?q=Av.+L%C3%BAcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="330px" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.393010082075!2d101.73244087447051!3d3.2521189525121135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc38c2f70795af%3A0xf808897bf1163a3!2sInternational%20Islamic%20University%20Malaysia!5e0!3m2!1sen!2smy!4v1705332530858!5m2!1sen!2smy" width="100%" height="330px" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
           </div>
           <div class="col-md-4">
             <div class="left-content">
               <h4>About our office</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti.</p>
+              <p>Our office is your gateway to a world of possibilities. From tailor-made itineraries crafted by experts who know the world like the back of their hand to insider tips on hidden gems and local experiences, we empower your wanderlust. Here, every journey begins with a spark, ignited by shared passion and fuelled by unparalleled knowledge.
+                <br><br>
+                So, come meet us, explore our world, and let us be your travel confidants. Together, let's turn dreams of faraway lands into unforgettable memories.</p>
               <ul class="social-icons">
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -177,27 +179,21 @@ https://templatemo.com/tm-546-sixteen-clothing
           <div class="col-md-4">
             <ul class="accordion">
               <li>
-                  <a>Accordion Title One</a>
+                  <a>Do Business with Us</a>
                   <div class="content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti elite.</p>
+                  <p>Offer your products or services to our travelers, leveraging our trusted reputation.</p>
                   </div>
               </li>
               <li>
-                  <a>Second Title Here</a>
+                  <a>Write a review</a>
                   <div class="content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti elite.</p>
+                  <p>We believe travel is about more than just ticking off landmarks. It's about the stories you collect, the connections you make, and the memories that stay with you forever.</p>
                   </div>
               </li>
               <li>
-                  <a>Accordion Title Three</a>
+                  <a>Trust & Safety</a>
                   <div class="content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti elite.</p>
-                  </div>
-              </li>
-              <li>
-                  <a>Fourth Accordion Title</a>
-                  <div class="content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti elite.</p>
+                  <p>Our mission is to create a safe and friendly environment by implementing strong Community Policies and meaningful standards.</p>
                   </div>
               </li>
             </ul>
@@ -206,54 +202,14 @@ https://templatemo.com/tm-546-sixteen-clothing
       </div>
     </div>
 
-    <div class="happy-clients">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="section-heading">
-              <h2>Our Happy Customers</h2>
-            </div>
-          </div>
-          <div class="col-md-12">
-            <div class="owl-clients owl-carousel">
-              <div class="client-item">
-                <img src="assets/images/client-01.png" alt="1">
-              </div>
-              
-              <div class="client-item">
-                <img src="assets/images/client-01.png" alt="2">
-              </div>
-              
-              <div class="client-item">
-                <img src="assets/images/client-01.png" alt="3">
-              </div>
-              
-              <div class="client-item">
-                <img src="assets/images/client-01.png" alt="4">
-              </div>
-              
-              <div class="client-item">
-                <img src="assets/images/client-01.png" alt="5">
-              </div>
-              
-              <div class="client-item">
-                <img src="assets/images/client-01.png" alt="6">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
+   
     
     <footer>
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="inner-content">
-              <p>Copyright &copy; 2020 Sixteen Clothing Co., Ltd.
-            
-            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+              <p>Copyright &copy; 2024 JenjalanMy</p>
             </div>
           </div>
         </div>

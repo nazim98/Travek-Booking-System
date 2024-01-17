@@ -38,14 +38,14 @@ https://templatemo.com/tm-546-sixteen-clothing
             <div></div>
             <div></div>
         </div>
-    </div>  
+    </div>
     <!-- ***** Preloader End ***** -->
 
     <!-- Header -->
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="/"><h2>Sixteen <em>Clothing</em></h2></a>
+          <a class="navbar-brand" href="/"><h2>JENJALAN <em>MY</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -55,7 +55,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <a class="nav-link" href="/">Home
                   <span class="sr-only">(current)</span>
                 </a>
-              </li> 
+              </li>
               <li class="nav-item active">
                 <a class="nav-link" href="about">About Us</a>
               </li>
@@ -88,7 +88,7 @@ https://templatemo.com/tm-546-sixteen-clothing
           <div class="col-md-12">
             <div class="text-content">
               <h4>about us</h4>
-              <h2>our company</h2>
+              <h2>JENJALAN MY</h2>
             </div>
           </div>
         </div>
@@ -101,23 +101,23 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Our Background</h2>
+
             </div>
           </div>
           <div class="col-md-6">
             <div class="right-image">
-              <img src="assets/images/feature-image.jpg" alt="">
+              <img src="assets/images/travel-about.jpg" alt="" width="220" height="460">
             </div>
           </div>
           <div class="col-md-6">
             <div class="left-content">
               <h4>Who we are &amp; What we do?</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis.</p>
+              <p>Introducing our Travel Booking System—a user-friendly web app for easy and enjoyable trip planning. Explore curated travel packages, including accommodations, transportation, and itineraries, all with a simple and efficient interface.
+                <br><br>Discover the joy of stress-free travel planning with our Travel Booking System. We are here to make your trips not only memorable but also incredibly convenient. Say goodbye to complex planning. And hello to hassle-free travel!</p>
               <ul class="social-icons">
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="#"><i class="fa fa-behance"></i></a></li>
+
               </ul>
             </div>
           </div>
@@ -125,150 +125,110 @@ https://templatemo.com/tm-546-sixteen-clothing
       </div>
     </div>
 
-    
+
     <div class="team-members">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Our Team Members</h2>
+              <h2>Our Milestones</h2>
             </div>
           </div>
           <div class="col-md-4">
             <div class="team-member">
               <div class="thumb-container">
-                <img src="assets/images/team_01.jpg" alt="">
+                <img src="assets/images/1.png" alt="">
                 <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
+
                 </div>
               </div>
               <div class="down-content">
-                <h4>Johnny William</h4>
-                <span>CO-Founder</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
+                <h4>95% Satisfaction Stories</h4>
+                <span>High Ratings, Higher Satisfaction</span>
+                <p>It's not just ratings; it's a joyous dance with our happy customers. Join the party, let's groove through seamless and delightful journeys together!</p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="team-member">
               <div class="thumb-container">
-                <img src="assets/images/team_02.jpg" alt="">
+                <img src="assets/images/2.png" alt="">
                 <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
+
                 </div>
               </div>
               <div class="down-content">
-                <h4>Karry Pitcher</h4>
-                <span>Product Expert</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
+                <h4>100,000+ Bookings</h4>
+                <span>Thousands trust us</span>
+                <p>Be part of the community that trusts us for their journeys. Join millions of happy travelers who have chosen confidence in every booking :)</p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="team-member">
               <div class="thumb-container">
-                <img src="assets/images/team_03.jpg" alt="">
+                <img src="assets/images/3.png" alt="">
                 <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
+
                 </div>
               </div>
               <div class="down-content">
-                <h4>Michael Soft</h4>
-                <span>Chief Marketing</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
+                <h4>Worldwide Wonders Await</h4>
+                <span>Now in 10+ Asean Countries</span>
+                <p>Our travel magic knows no bounds! You can now plan your dream escapes in over 100 countries. Get ready to embark on a global adventure like never before! </p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="team-member">
               <div class="thumb-container">
-                <img src="assets/images/team_04.jpg" alt="">
+                <img src="assets/images/4.png" alt="">
                 <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
+
                 </div>
               </div>
               <div class="down-content">
-                <h4>Mary Cool</h4>
-                <span>Product Specialist</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
+                <h4>Best Travel Booking Platform</h4>
+                <span>Our trophy collection just got bigger</span>
+                <p>We're thrilled to be crowned 'Best Travel Booking Platform' at the Nevo Awards, showcasing our commitment to excellence and superior service.</p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="team-member">
               <div class="thumb-container">
-                <img src="assets/images/team_05.jpg" alt="">
+                <img src="assets/images/5.png" alt="">
                 <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
+
                 </div>
               </div>
               <div class="down-content">
-                <h4>George Walker</h4>
-                <span>Product Photographer</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
+                <h4> 24/7 Service for a Decade</h4>
+                <span>Always here for you</span>
+                <p>We've been providing round-the-clock support. Trust us to be there for you at every step of your journey, anytime, day or night!</p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="team-member">
               <div class="thumb-container">
-                <img src="assets/images/team_06.jpg" alt="">
+                <img src="assets/images/6.png" alt="">
                 <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
+
                 </div>
               </div>
               <div class="down-content">
-                <h4>Kate Town</h4>
-                <span>General Manager</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
+                <h4>Preferred Partner of Top Airlines</h4>
+                <span>In the Skies and Beyond!</span>
+                <p>We're honored to be the preferred partner of top airlines, ensuring you access to the best deals and seamless travel experiences. Fly high with us!</p>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
+
+<br><br><br><br>
 
 
     <div class="services">
@@ -277,36 +237,36 @@ https://templatemo.com/tm-546-sixteen-clothing
           <div class="col-md-4">
             <div class="service-item">
               <div class="icon">
-                <i class="fa fa-gear"></i>
+                <i class="fa fa-gear"></i><br><br><br>
               </div>
               <div class="down-content">
-                <h4>Product Management</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
-                <a href="#" class="filled-button">Read More</a>
+                <h4>Seamless Packages</h4>
+                <p>Embark on hassle-free adventures with our curated packages—blending accommodations, transportation, and itineraries seamlessly.</p>
+
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service-item">
               <div class="icon">
-                <i class="fa fa-gear"></i>
+                <i class="fa fa-gear"></i><br><br><br>
               </div>
               <div class="down-content">
-                <h4>Customer Relations</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
-                <a href="#" class="filled-button">Details</a>
+                <h4>Personalized Journeys</h4>
+                <p>Dive into tailored adventures, crafted just for you. Unleash your style with our unique travel experiences. From us, for you.</p>
+
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service-item">
               <div class="icon">
-                <i class="fa fa-gear"></i>
+                <i class="fa fa-gear"></i><br><br><br>
               </div>
               <div class="down-content">
-                <h4>Global Collection</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
-                <a href="#" class="filled-button">Read More</a>
+                <h4>3X Installment</h4>
+                <p>Enjoy budget-friendly travel with our 3x installment option through ShopBack and Atome, spreading the cost of your journey effortlessly. </p>
+
               </div>
             </div>
           </div>
@@ -320,33 +280,35 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Happy Partners</h2>
+              <h2>Our Crew</h2>
             </div>
           </div>
           <div class="col-md-12">
             <div class="owl-clients owl-carousel">
               <div class="client-item">
-                <img src="assets/images/client-01.png" alt="1">
+                <img src="assets/images/man1.png" alt="1">
               </div>
-              
+
               <div class="client-item">
-                <img src="assets/images/client-01.png" alt="2">
+                <img src="assets/images/man2.png" alt="2">
               </div>
-              
+
               <div class="client-item">
-                <img src="assets/images/client-01.png" alt="3">
+                <img src="assets/images/man3.png" alt="3">
               </div>
-              
+
               <div class="client-item">
-                <img src="assets/images/client-01.png" alt="4">
+                <img src="assets/images/woman1.png" alt="4">
               </div>
-              
+
               <div class="client-item">
-                <img src="assets/images/client-01.png" alt="5">
+                <img src="assets/images/woman2.png" alt="5">
               </div>
-              
+
               <div class="client-item">
                 <img src="assets/images/client-01.png" alt="6">
+
+
               </div>
             </div>
           </div>
@@ -354,15 +316,15 @@ https://templatemo.com/tm-546-sixteen-clothing
       </div>
     </div>
 
-    
+
     <footer>
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="inner-content">
-              <p>Copyright &copy; 2020 Sixteen Clothing Co., Ltd.
+              <p>Copyright &copy; 2024 JenjalanMy
+
             
-            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
             </div>
           </div>
         </div>
@@ -383,7 +345,7 @@ https://templatemo.com/tm-546-sixteen-clothing
     <script src="assets/js/accordions.js"></script>
 
 
-    <script language = "text/Javascript"> 
+    <script language = "text/Javascript">
       cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
       function clearField(t){                   //declaring the array outside of the
       if(! cleared[t.id]){                      // function makes it static and global
